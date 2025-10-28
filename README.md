@@ -37,5 +37,4 @@ It is designed to mimic a standard calculator layout, with buttons for digits an
 
 ---
 
-## 📁 Folder Structure
 
